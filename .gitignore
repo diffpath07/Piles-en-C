@@ -1,0 +1,5 @@
+*.o
+test_pile
+test_exos
+*.dSYM/
+.DS_Store
