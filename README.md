@@ -1,4 +1,4 @@
-# TD3 : Les piles en C
+#Les piles en C
 
 Implémentation d'une pile (tableau statique) en C, avec les exercices du TD3.
 
